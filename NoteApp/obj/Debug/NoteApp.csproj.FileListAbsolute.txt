@@ -1,0 +1,10 @@
+C:\Users\Arzab Bhattarai\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.AssemblyReference.cache
+C:\Users\Arzab Bhattarai\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.Form1.resources
+C:\Users\Arzab Bhattarai\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.Properties.Resources.resources
+C:\Users\Arzab Bhattarai\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.GenerateResource.cache
+C:\Users\Arzab Bhattarai\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.CoreCompileInputs.cache
+C:\Users\Arzab Bhattarai\source\repos\NoteApp\NoteApp\bin\Debug\NoteApp.exe.config
+C:\Users\Arzab Bhattarai\source\repos\NoteApp\NoteApp\bin\Debug\NoteApp.exe
+C:\Users\Arzab Bhattarai\source\repos\NoteApp\NoteApp\bin\Debug\NoteApp.pdb
+C:\Users\Arzab Bhattarai\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.exe
+C:\Users\Arzab Bhattarai\source\repos\NoteApp\NoteApp\obj\Debug\NoteApp.pdb
